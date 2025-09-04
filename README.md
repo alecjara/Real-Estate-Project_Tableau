@@ -11,7 +11,7 @@ It demonstrates how to build and interpret a variety of charts, including:
 Each visualization highlights how different chart types can reveal insights such as sales distribution by zip code, property type, and overall market trends.
 
 Highlight Table:
-![Highlight Table](images/Highlight Table.png)
+![Highlight Table](images/Highlight_Table.png)
 
 LineChart:
 ![LineChart](images/LineChart.png)
@@ -23,7 +23,7 @@ PieChart:
 ![Pie Chart](images/PieChart.png)
 
 Side by side bar:
-![Side by side bar](images/Side by side bar.png)
+![Side by side bar](images/Side_by_side_bar.png)
 
 TreeMap:
 ![TreeMap](TreeMap.png)
