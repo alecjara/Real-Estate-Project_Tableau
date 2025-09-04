@@ -37,3 +37,6 @@ The horizontal bar shows which zip codes have higher total sales.
 
 Area chart rising areas show growth in sales or activity, flattening areas show stagnation, and declining areas show in downturn.
 ![AreaChart](images/AreaChart.png)
+
+Area chart 2 with another dimension, property type contribution over time.
+![AreaChart2](images/AreaChart2.png)
