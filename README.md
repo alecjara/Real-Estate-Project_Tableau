@@ -26,4 +26,4 @@ Side by side bar:
 ![Side by side bar](images/SideBySideBar.png)
 
 TreeMap:
-![TreeMap](TreeMap.png)
+![TreeMap](images/TreeMap.png)
