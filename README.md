@@ -10,20 +10,30 @@ It demonstrates how to build and interpret a variety of charts, including:
 
 Each visualization highlights how different chart types can reveal insights such as sales distribution by zip code, property type, and overall market trends.
 
-Highlight Table:
+Highlight Table: This visualization shows each cell based on the value, cell-wise, making it easy to spotlight the highest and lowest cross-property types or zip codes.
 ![Highlight Table](images/HighlightTable.png)
 
-LineChart:
-![LineChart](images/LineChart.png)
+Horizontal Bar comparative relationship as well as its approximate numeric value.
+![HorizontalBar](images/HorizontalBar.png)
 
-Map:
+Symbol Map to represent a data point.
 ![Map](images/Map.png)
 
 PieChart:
 ![Pie Chart](images/PieChart.png)
 
-Side by side bar:
+Side-by-side bar is useful for comparing the average price between properties, property types across zip codes.
 ![Side by side bar](images/SideBySideBar.png)
 
-TreeMap:
+TreeMap this allows us to identify which neighborhoods account for the highest volume or value of home sales, using area size to denote the magnitude of sales. 
 ![TreeMap](images/TreeMap.png)
+
+Circle chart identify an outlier, such as a neighbor with high total sales, big and dark circles, or a neighbor with low activity, small and light circles. 
+![CircleChart](images/CircleChart.png)
+
+
+The horizontal bar shows which zip codes have higher total sales. 
+![HorizontalBar](images/HorizontalBar.png)
+
+Area chart rising areas show growth in sales or activity, flattening areas show stagnation, and declining areas show in downturn.
+![AreaChart](images/AreaChart.png)
