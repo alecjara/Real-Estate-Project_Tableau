@@ -40,3 +40,7 @@ Area chart rising areas show growth in sales or activity, flattening areas show 
 
 Area chart 2 with another dimension, property type contribution over time.
 ![AreaChart2](images/AreaChart2.png)
+
+
+LineChart to illustrate trends over time.
+![LineChart2](images/LineChart2.png)
