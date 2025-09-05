@@ -28,7 +28,7 @@ Side-by-side bar is useful for comparing the average price between properties, p
 TreeMap this allows us to identify which neighborhoods account for the highest volume or value of home sales, using area size to denote the magnitude of sales. 
 ![TreeMap](images/TreeMap.png)
 
-Circle chart identify an outlier, such as a neighbor with high total sales, big and dark circles, or a neighbor with low activity, small and light circles. 
+A circle chart identifies an outlier, such as a neighbor with high total sales, big and dark circles, or a neighbor with low activity, small and light circles. 
 ![CircleChart](images/CircleChart.png)
 
 
@@ -41,6 +41,8 @@ Area chart rising areas show growth in sales or activity, flattening areas show 
 Area chart 2 with another dimension, property type contribution over time.
 ![AreaChart2](images/AreaChart2.png)
 
-
 LineChart to illustrate trends over time.
 ![LineChart2](images/LineChart2.png)
+
+Histogram
+![Histogram](images/Histogram.png)
