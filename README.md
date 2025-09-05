@@ -46,3 +46,6 @@ LineChart to illustrate trends over time.
 
 Histogram
 ![Histogram](images/Histogram.png)
+
+Box and Whisker Plot
+![Box-whisker-plot](images/Box-whisker-plot.png)
